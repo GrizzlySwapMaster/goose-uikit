@@ -2144,6 +2144,10 @@ var socials = [
                 label: "Discussion",
                 href: "https://t.me/titan_defi",
             },
+            {
+                label: "Announcement",
+                href: "https://t.me/titan_defi_announcements",
+            },
         ],
     },
     {
