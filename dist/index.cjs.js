@@ -2153,7 +2153,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/finance_titan",
+        href: "https://twitter.com/grizzlyswap",
     },
 ];
 var MENU_HEIGHT = 64;
