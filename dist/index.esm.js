@@ -2129,11 +2129,11 @@ var socials = [
         items: [
             {
                 label: "Discussion",
-                href: "https://t.me/titan_defi",
+                href: "/",
             },
             {
                 label: "Announcement",
-                href: "https://t.me/titan_defi_announcements",
+                href: "/",
             },
         ],
     },
