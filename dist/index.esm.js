@@ -2129,11 +2129,7 @@ var socials = [
         items: [
             {
                 label: "Discussion",
-                href: "/",
-            },
-            {
-                label: "Announcement",
-                href: "/",
+                href: "/https://t.me/GrizzlySwap",
             },
         ],
     },
